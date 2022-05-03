@@ -1,5 +1,5 @@
 //module gorm
-module github.com/MarkCarterE/gorm
+module github.com/MarkCarterE/gorm/src
 
 go 1.17
 
