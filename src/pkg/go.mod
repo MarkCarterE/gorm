@@ -31,15 +31,15 @@ require (
 //I've got one module with mulitple packages
 //replace github.com/fiserv/dna/gorm/pkg/handlers => ./pkg/handlers
 //replace github.com/fiserv/dna/gorm/pkg/db => ./pkg/db
-replace github.com/dna/gorm/pkg/handlers => ./pkg/handlers
-replace github.com/dna/gorm/pkg/db => ./pkg/db
-replace github.com/dna/gorm/pkg/models => ./pkg/models
+//replace github.com/dna/gorm/pkg/handlers => ./pkg/handlers
+//replace github.com/dna/gorm/pkg/db => ./pkg/db
+//replace github.com/dna/gorm/pkg/models => ./pkg/models
 
-require (
-	github.com/dna/gorm/pkg/handlers v1.0.0
-	github.com/dna/gorm/pkg/db v1.0.0
-	github.com/dna/gorm/pkg/models v1.0.0
-)
+//require (
+//	github.com/dna/gorm/pkg/handlers v1.0.0
+//	github.com/dna/gorm/pkg/db v1.0.0
+//	github.com/dna/gorm/pkg/models v1.0.0
+//)
 
 
 
