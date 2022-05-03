@@ -6,8 +6,8 @@ import (
 
 	// "gorm/pkg/handlers"
 	// "gorm/pkg/db"
-	"github.com/dna/gorm/pkg/db" 
-	"github.com/dna/gorm/pkg/handlers"
+	"github.com/MarkCarterE/gorm/src/pkg/db" 
+	"github.com/MarkCarterE/gorm/src/pkg/handlers"
 
 	"github.com/gorilla/mux"
 )
