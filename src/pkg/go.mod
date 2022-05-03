@@ -1,5 +1,5 @@
 //module gorm
-module github.com/dna/gorm
+module github.com/MarkCarterE/gorm
 
 go 1.17
 
