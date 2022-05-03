@@ -5,7 +5,7 @@ import (
 
 	//"github.com/tutorials/go/crud/pkg/models"
 	//"gorm/pkg/models"
-	"github.com/dna/gorm/pkg/models v1.8.0"
+	"github.com/MarkCarterE/gorm/src/pkg/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
